@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ><head><title>Love</title></head><body>
+<html ><head><title>Love</title>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -33,7 +33,7 @@
   margin: 10px 0px 15px 0px;
 }
 </style>
-
+</head><body>
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
